@@ -1,0 +1,3 @@
+[submodule "CLT"]
+	path = CLT
+	url = git@github.com:Johannes4Linux/LTW_CLT25.git
