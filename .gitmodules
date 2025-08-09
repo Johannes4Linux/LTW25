@@ -1,3 +1,9 @@
 [submodule "CLT"]
 	path = CLT
 	url = git@github.com:Johannes4Linux/LTW_CLT25.git
+[submodule "froscon25"]
+	path = froscon25
+	url = git@github.com:Johannes4Linux/froscon25.git
+[submodule "luga_lit25"]
+	path = luga_lit25
+	url = git@github.com:Johannes4Linux/luga_lit25.git
